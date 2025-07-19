@@ -1,0 +1,30 @@
+payload:
+  #需要直连
+  - DOMAIN-SUFFIX,fuliba2025.net
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,mefrp.com
+  - DOMAIN-SUFFIX,kuyun.com
+  - DOMAIN-SUFFIX,xhofe.top
+  - DOMAIN-SUFFIX,zhuifan.link
+  # Github加速
+  - DOMAIN-SUFFIX,imee.me
+ # 自己
+  - DOMAIN-SUFFIX,shizongliang.cn
+  - DOMAIN-SUFFIX,715577.xyz
+  - DOMAIN-SUFFIX,shizongliang.eu.org
+  - DOMAIN-SUFFIX,71557.dpdns.org
+  - DOMAIN-SUFFIX,7775.dpdns.org
+  - DOMAIN-SUFFIX,shizongliang.dpdns.org
+ ## TPTV
+  - DOMAIN-SUFFIX,mobaibox.com
+  - DOMAIN-SUFFIX,myip.ipip.net
+  - IP-CIDR,183.207.0.0/16,no-resolve
+
+  ## YSP
+  - DOMAIN-SUFFIX,cctv.cn
+  - DOMAIN-SUFFIX,yangshipin.cn
+
+  ## ITV
+  - DOMAIN-SUFFIX,dnsany.com
+  - DOMAIN-SUFFIX,cmvideo.cn
+  - DOMAIN-SUFFIX,chinamobile.com
