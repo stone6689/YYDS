@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,log.ngsm.nexon.com
 DOMAIN-SUFFIX,sdk-push.mp.nexon.com
 DOMAIN-SUFFIX,m-api.nexon.com
 DOMAIN-SUFFIX,jp.livelog.nexon.com
-
+DOMAIN-SUFFIX,sgameglobal.com
 #DOMAIN-KEYWORD,sgameglobal.com
 
 IP-CIDR,183.192.65.101/16,no-resolve
