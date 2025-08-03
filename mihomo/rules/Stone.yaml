@@ -1,5 +1,6 @@
 payload:
   #需要直连
+  - DOMAIN-SUFFIX,fnnas.com
   - DOMAIN-SUFFIX,fuliba2025.net
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,mefrp.com
