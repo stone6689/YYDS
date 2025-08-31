@@ -19,3 +19,6 @@ payload:
   - DOMAIN-SUFFIX,livednow.org
   - DOMAIN-SUFFIX,wx.sb
 #  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,turtle-wow.org
+  - DOMAIN-SUFFIX,cn.turtle-wow.org
+  - DOMAIN-SUFFIX,cnlogon.turtle-wow.org
