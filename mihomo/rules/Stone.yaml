@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,kuyun.com
   - DOMAIN-SUFFIX,xhofe.top
   - DOMAIN-SUFFIX,zhuifan.link
+  - DOMAIN-SUFFIX,docker.fnnas.com
   # Github加速
   - DOMAIN-SUFFIX,imee.me
  # 自己
